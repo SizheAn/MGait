@@ -1,6 +1,7 @@
 # MGait
 MGait: Model-Based Gait Analysis Using Wearable Bend and Inertial Sensors
 This repository is for the dataset sharing of MGait.
+
 TODO: Share the dataset...
 
 **License**
